@@ -28,11 +28,7 @@ TOPSTEP $50K PARAMETERS:
 - 5-point stop on 5 contracts = $125 risk
 - 5-point stop on 10 contracts = $250 risk
 
-MARKET CONTEXT (April 21, 2026):
-- US-Iran ceasefire expires tomorrow (April 22) — dominant macro risk
-- WTI crude ~$89, elevated geopolitical tension
-- ES/MES trading around 7,134–7,174 range
-- Key levels: 7,183 ATH resistance, 7,159 prior swing high, 7,150 VAL/UWAP pivot, 7,143 key level, 7,134 current support, 7,121 yLoD, 7,088 bear extension
+
 
 YOUR ROLE:
 - Be a direct, no-nonsense trading coach
